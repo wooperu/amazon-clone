@@ -1,3 +1,3 @@
-import { renderOrderSummary } from "./orderSummary";
-
-renderOrderSummary();
+export function renderPaymentSummary() {
+  console.log('payment');
+}
